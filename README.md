@@ -1,5 +1,6 @@
 # 4bitCounter
 Synchronous Up/Down counter integrated circuit SN74LS191 chip
+
 ![Project image](/Images/4bit.png)
 
 ## Requirements
