@@ -1,5 +1,6 @@
 # 4bitCounter
-Up/Down counter circuit with SN74LS191 chip 
+Up/Down counter circuit with SN74LS191 chip
+![Project image](/Images/4bit.png)
 
 ## Requirements
 ### Hardware
@@ -11,6 +12,7 @@ Up/Down counter circuit with SN74LS191 chip
 
 
 ## Documentation
+![Project image](Images/4BITCounter.png)
 ### SN74LS191N
 | Pin | Connected to ...|
 |-----|---------------|
