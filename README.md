@@ -54,3 +54,5 @@ The connection explained in the documenation is for a up count from zero to fift
 | QC | LED|
 | QD | LED |
 | GND | GND|
+
+_Inspired by Herr Sönke Rogge_
